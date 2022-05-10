@@ -1,0 +1,15 @@
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\bin\Debug\net6.0\AreaFigures.exe
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\bin\Debug\net6.0\AreaFigures.deps.json
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\bin\Debug\net6.0\AreaFigures.runtimeconfig.json
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\bin\Debug\net6.0\AreaFigures.dll
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\bin\Debug\net6.0\AreaFigures.pdb
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.dll
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\refint\AreaFigures.dll
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.pdb
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\AreaFigures.genruntimeconfig.cache
+C:\Users\Михаил\source\repos\AreaFigures\AreaFigures\obj\Debug\net6.0\ref\AreaFigures.dll
